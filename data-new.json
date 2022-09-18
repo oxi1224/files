@@ -1,6 +1,7 @@
 {
   "mage": {
     "websiteName": "MAGE",
+    "url": "https://key-drop.com/en/skins/category/mage",
     "price": "4.51pln",
     "winChance": 38.032,
     "looseChance": 61.968,
@@ -25,6 +26,7 @@
   },
   "siren": {
     "websiteName": "SIREN",
+    "url": "https://key-drop.com/en/skins/category/siren",
     "price": "36.08pln",
     "winChance": 36.407,
     "looseChance": 63.593,
@@ -49,6 +51,7 @@
   },
   "waterbender": {
     "websiteName": "WATERBENDER",
+    "url": "https://key-drop.com/en/skins/category/waterbender",
     "price": "198.44pln",
     "winChance": 30.959,
     "looseChance": 69.041,
@@ -73,6 +76,7 @@
   },
   "quara": {
     "websiteName": "QUARA",
+    "url": "https://key-drop.com/en/skins/category/quara",
     "price": "99.22pln",
     "winChance": 37.306,
     "looseChance": 62.694,
@@ -97,6 +101,7 @@
   },
   "sorceress": {
     "websiteName": "SORCERESS",
+    "url": "https://key-drop.com/en/skins/category/sorceress",
     "price": "16.91pln",
     "winChance": 30.362,
     "looseChance": 69.638,
@@ -121,6 +126,7 @@
   },
   "splash": {
     "websiteName": "SPLASH",
+    "url": "https://key-drop.com/en/skins/category/splash",
     "price": "9.02pln",
     "winChance": 34.466,
     "looseChance": 65.534,
@@ -145,6 +151,7 @@
   },
   "draco": {
     "websiteName": "DRACO",
+    "url": "https://key-drop.com/en/skins/category/draco",
     "price": "36.08pln",
     "winChance": 35.107,
     "looseChance": 64.893,
@@ -169,6 +176,7 @@
   },
   "wizard": {
     "websiteName": "WIZARD",
+    "url": "https://key-drop.com/en/skins/category/wizard",
     "price": "4.51pln",
     "winChance": 36.632,
     "looseChance": 63.368,
@@ -193,6 +201,7 @@
   },
   "fury": {
     "websiteName": "FURY",
+    "url": "https://key-drop.com/en/skins/category/fury",
     "price": "99.22pln",
     "winChance": 37.306,
     "looseChance": 62.694,
@@ -217,6 +226,7 @@
   },
   "pyro": {
     "websiteName": "PYRO",
+    "url": "https://key-drop.com/en/skins/category/pyro",
     "price": "16.91pln",
     "winChance": 29.862,
     "looseChance": 70.138,
@@ -241,6 +251,7 @@
   },
   "demon": {
     "websiteName": "DEMON",
+    "url": "https://key-drop.com/en/skins/category/demon",
     "price": "9.02pln",
     "winChance": 34.966,
     "looseChance": 65.034,
@@ -265,6 +276,7 @@
   },
   "firebender": {
     "websiteName": "FIREBENDER",
+    "url": "https://key-drop.com/en/skins/category/firebender",
     "price": "198.44pln",
     "winChance": 32.359,
     "looseChance": 67.641,
@@ -289,6 +301,7 @@
   },
   "fresco": {
     "websiteName": "FRESCO",
+    "url": "https://key-drop.com/skins/category/fresco",
     "price": "4.96pln",
     "winChance": 30.764,
     "looseChance": 69.236,
@@ -313,6 +326,7 @@
   },
   "moon-2": {
     "websiteName": "MOON",
+    "url": "https://key-drop.com/skins/category/moon-2",
     "price": "51.86pln",
     "winChance": 27.626,
     "looseChance": 72.374,
@@ -337,6 +351,7 @@
   },
   "morick": {
     "websiteName": "MORICK",
+    "url": "https://key-drop.com/skins/category/morick",
     "price": "76.67pln",
     "winChance": 28.228,
     "looseChance": 71.772,
@@ -361,6 +376,7 @@
   },
   "char": {
     "websiteName": "CHAR",
+    "url": "https://key-drop.com/skins/category/char",
     "price": "19.17pln",
     "winChance": 28.084,
     "looseChance": 71.916,
@@ -385,6 +401,7 @@
   },
   "mosaic": {
     "websiteName": "MOSAIC",
+    "url": "https://key-drop.com/skins/category/mosaic",
     "price": "4.28pln",
     "winChance": 1,
     "looseChance": 99,
@@ -409,6 +426,7 @@
   },
   "kacper-rietz": {
     "websiteName": "KACPER RIETZ",
+    "url": "https://key-drop.com/skins/category/kacper-rietz",
     "price": "19.75pln",
     "winChance": 29.465,
     "looseChance": 70.535,
@@ -433,6 +451,7 @@
   },
   "mateo": {
     "websiteName": "MATEO",
+    "url": "https://key-drop.com/skins/category/mateo",
     "price": "19.75pln",
     "winChance": 17.393,
     "looseChance": 82.607,
@@ -457,6 +476,7 @@
   },
   "isamu": {
     "websiteName": "ISAMU",
+    "url": "https://key-drop.com/skins/category/isamu",
     "price": "49.43pln",
     "winChance": 34.36,
     "looseChance": 65.64,
@@ -481,6 +501,7 @@
   },
   "medusa": {
     "websiteName": "MEDUSA",
+    "url": "https://key-drop.com/skins/category/medusa",
     "price": "33.6pln",
     "winChance": 29.627,
     "looseChance": 70.373,
@@ -505,6 +526,7 @@
   },
   "innocent": {
     "websiteName": "INNOCENT",
+    "url": "https://key-drop.com/skins/category/innocent",
     "price": "27.69pln",
     "winChance": 29.511,
     "looseChance": 70.489,
@@ -529,6 +551,7 @@
   },
   "dmg": {
     "websiteName": "DMG",
+    "url": "https://key-drop.com/skins/category/dmg",
     "price": "100.03pln",
     "winChance": 24.258,
     "looseChance": 75.742,
@@ -553,6 +576,7 @@
   },
   "gilathiss": {
     "websiteName": "GILATHISS",
+    "url": "https://key-drop.com/skins/category/gilathiss",
     "price": "49.43pln",
     "winChance": 35.248,
     "looseChance": 64.752,
@@ -577,6 +601,7 @@
   },
   "nexe": {
     "websiteName": "NEXE",
+    "url": "https://key-drop.com/skins/category/nexe",
     "price": "33.37pln",
     "winChance": 23.512,
     "looseChance": 76.488,
@@ -601,6 +626,7 @@
   },
   "juanflatroo": {
     "websiteName": "JUANFLATROO",
+    "url": "https://key-drop.com/skins/category/juanflatroo",
     "price": "39.55pln",
     "winChance": 34.509,
     "looseChance": 65.491,
@@ -625,6 +651,7 @@
   },
   "zony": {
     "websiteName": "ZONY",
+    "url": "https://key-drop.com/skins/category/zony",
     "price": "47.45pln",
     "winChance": 10,
     "looseChance": 90,
@@ -649,6 +676,7 @@
   },
   "spark": {
     "websiteName": "SPARK",
+    "url": "https://key-drop.com/skins/category/spark",
     "price": "6.9pln",
     "winChance": 1,
     "looseChance": 99,
@@ -673,6 +701,7 @@
   },
   "daggers": {
     "websiteName": "DAGGERS",
+    "url": "https://key-drop.com/skins/category/daggers",
     "price": "2.39pln",
     "winChance": 1,
     "looseChance": 99,
@@ -697,6 +726,7 @@
   },
   "perfect": {
     "websiteName": "PERFECT",
+    "url": "https://key-drop.com/skins/category/perfect",
     "price": "15.83pln",
     "winChance": 18.96,
     "looseChance": 81.04,
@@ -721,6 +751,7 @@
   },
   "energy-2": {
     "websiteName": "ENERGY",
+    "url": "https://key-drop.com/skins/category/energy-2",
     "price": "2.39pln",
     "winChance": 2.88,
     "looseChance": 97.12,
@@ -745,6 +776,7 @@
   },
   "sharp-2": {
     "websiteName": "SHARP",
+    "url": "https://key-drop.com/skins/category/sharp-2",
     "price": "39.55pln",
     "winChance": 19.625,
     "looseChance": 80.375,
@@ -769,6 +801,7 @@
   },
   "swap": {
     "websiteName": "SWAP",
+    "url": "https://key-drop.com/skins/category/swap",
     "price": "15.83pln",
     "winChance": 2.65,
     "looseChance": 97.35,
@@ -793,6 +826,7 @@
   },
   "signal": {
     "websiteName": "SIGNAL",
+    "url": "https://key-drop.com/skins/category/signal",
     "price": "14.84pln",
     "winChance": 9.5,
     "looseChance": 90.5,
@@ -817,6 +851,7 @@
   },
   "smart-2": {
     "websiteName": "SMART",
+    "url": "https://key-drop.com/skins/category/smart-2",
     "price": "17.81pln",
     "winChance": 7.852,
     "looseChance": 92.148,
@@ -841,6 +876,7 @@
   },
   "capital": {
     "websiteName": "CAPITAL",
+    "url": "https://key-drop.com/skins/category/capital",
     "price": "15.83pln",
     "winChance": 1.296,
     "looseChance": 98.704,
@@ -865,6 +901,7 @@
   },
   "tech": {
     "websiteName": "TECH",
+    "url": "https://key-drop.com/skins/category/tech",
     "price": "2.39pln",
     "winChance": 1,
     "looseChance": 99,
@@ -889,6 +926,7 @@
   },
   "1-profit": {
     "websiteName": "1% PROFIT",
+    "url": "https://key-drop.com/skins/category/1-profit",
     "price": "3.38pln",
     "winChance": 1,
     "looseChance": 99,
@@ -913,6 +951,7 @@
   },
   "lord": {
     "websiteName": "LORD",
+    "url": "https://key-drop.com/skins/category/lord",
     "price": "19.75pln",
     "winChance": 7.486,
     "looseChance": 92.514,
@@ -937,6 +976,7 @@
   },
   "token": {
     "websiteName": "TOKEN",
+    "url": "https://key-drop.com/skins/category/token",
     "price": "11.86pln",
     "winChance": 23.325,
     "looseChance": 76.675,
@@ -961,6 +1001,7 @@
   },
   "rocket": {
     "websiteName": "ROCKET",
+    "url": "https://key-drop.com/skins/category/rocket",
     "price": "19.75pln",
     "winChance": 5,
     "looseChance": 95,
@@ -985,6 +1026,7 @@
   },
   "1-knife": {
     "websiteName": "1% KNIFE",
+    "url": "https://key-drop.com/skins/category/1-knife",
     "price": "3.97pln",
     "winChance": 1,
     "looseChance": 99,
@@ -1009,6 +1051,7 @@
   },
   "space": {
     "websiteName": "SPACE",
+    "url": "https://key-drop.com/skins/category/space",
     "price": "27.69pln",
     "winChance": 29.57,
     "looseChance": 70.43,
@@ -1033,6 +1076,7 @@
   },
   "focus": {
     "websiteName": "FOCUS",
+    "url": "https://key-drop.com/skins/category/focus",
     "price": "15.83pln",
     "winChance": 17.753,
     "looseChance": 82.247,
@@ -1057,6 +1101,7 @@
   },
   "fang": {
     "websiteName": "FANG",
+    "url": "https://key-drop.com/skins/category/fang",
     "price": "146.35pln",
     "winChance": 14.907,
     "looseChance": 85.093,
@@ -1081,6 +1126,7 @@
   },
   "cobra": {
     "websiteName": "COBRA",
+    "url": "https://key-drop.com/skins/category/cobra",
     "price": "395.53pln",
     "winChance": 27.775,
     "looseChance": 72.225,
@@ -1105,6 +1151,7 @@
   },
   "royal": {
     "websiteName": "ROYAL",
+    "url": "https://key-drop.com/skins/category/royal",
     "price": "59.31pln",
     "winChance": 28.076,
     "looseChance": 71.924,
@@ -1129,6 +1176,7 @@
   },
   "thunder": {
     "websiteName": "THUNDER",
+    "url": "https://key-drop.com/skins/category/thunder",
     "price": "79.11pln",
     "winChance": 41.983,
     "looseChance": 58.017,
@@ -1153,6 +1201,7 @@
   },
   "tooth": {
     "websiteName": "TOOTH",
+    "url": "https://key-drop.com/skins/category/tooth",
     "price": "41pln",
     "winChance": 19.695,
     "looseChance": 80.305,
@@ -1177,6 +1226,7 @@
   },
   "bubble": {
     "websiteName": "BUBBLE",
+    "url": "https://key-drop.com/skins/category/bubble",
     "price": "57.1pln",
     "winChance": 26.635,
     "looseChance": 73.365,
@@ -1201,6 +1251,7 @@
   },
   "hive": {
     "websiteName": "HIVE",
+    "url": "https://key-drop.com/skins/category/hive",
     "price": "32.29pln",
     "winChance": 26.248,
     "looseChance": 73.752,
@@ -1225,6 +1276,7 @@
   },
   "strike": {
     "websiteName": "STRIKE",
+    "url": "https://key-drop.com/skins/category/strike",
     "price": "23.63pln",
     "winChance": 27.828,
     "looseChance": 72.172,
@@ -1249,6 +1301,7 @@
   },
   "splinter": {
     "websiteName": "SPLINTER",
+    "url": "https://key-drop.com/skins/category/splinter",
     "price": "68.73pln",
     "winChance": 25.115,
     "looseChance": 74.885,
@@ -1273,6 +1326,7 @@
   },
   "vision": {
     "websiteName": "VISION",
+    "url": "https://key-drop.com/skins/category/vision",
     "price": "123.71pln",
     "winChance": 20.82,
     "looseChance": 79.18,
@@ -1297,6 +1351,7 @@
   },
   "toxic": {
     "websiteName": "TOXIC",
+    "url": "https://key-drop.com/skins/category/toxic",
     "price": "6.67pln",
     "winChance": 19.352,
     "looseChance": 80.648,
@@ -1321,6 +1376,7 @@
   },
   "omega": {
     "websiteName": "OMEGA",
+    "url": "https://key-drop.com/skins/category/omega",
     "price": "49.29pln",
     "winChance": 25.896,
     "looseChance": 74.104,
@@ -1345,6 +1401,7 @@
   },
   "dream": {
     "websiteName": "DREAM",
+    "url": "https://key-drop.com/skins/category/dream",
     "price": "97.82pln",
     "winChance": 30.235,
     "looseChance": 69.765,
@@ -1369,6 +1426,7 @@
   },
   "diablo": {
     "websiteName": "DIABLO",
+    "url": "https://key-drop.com/skins/category/diablo",
     "price": "5.64pln",
     "winChance": 25.336,
     "looseChance": 74.664,
@@ -1393,6 +1451,7 @@
   },
   "shadow": {
     "websiteName": "SHADOW",
+    "url": "https://key-drop.com/skins/category/shadow",
     "price": "14.16pln",
     "winChance": 23.682,
     "looseChance": 76.318,
@@ -1417,6 +1476,7 @@
   },
   "ice-blast": {
     "websiteName": "ICE BLAST",
+    "url": "https://key-drop.com/skins/category/ice-blast",
     "price": "1.58pln",
     "winChance": 20.411,
     "looseChance": 79.589,
@@ -1441,6 +1501,7 @@
   },
   "deadpool": {
     "websiteName": "DEADPOOL",
+    "url": "https://key-drop.com/skins/category/deadpool",
     "price": "46.68pln",
     "winChance": 30.342,
     "looseChance": 69.658,
@@ -1465,6 +1526,7 @@
   },
   "rocket-raccon": {
     "websiteName": "ROCKET RACCON",
+    "url": "https://key-drop.com/skins/category/rocket-raccon",
     "price": "1.76pln",
     "winChance": 38.941,
     "looseChance": 61.059,
@@ -1489,6 +1551,7 @@
   },
   "batman": {
     "websiteName": "BATMAN",
+    "url": "https://key-drop.com/skins/category/batman",
     "price": "7.53pln",
     "winChance": 28.987,
     "looseChance": 71.013,
@@ -1513,6 +1576,7 @@
   },
   "venom": {
     "websiteName": "VENOM",
+    "url": "https://key-drop.com/skins/category/venom",
     "price": "92.55pln",
     "winChance": 23.346,
     "looseChance": 76.654,
@@ -1537,6 +1601,7 @@
   },
   "thanos": {
     "websiteName": "THANOS",
+    "url": "https://key-drop.com/skins/category/thanos",
     "price": "22.14pln",
     "winChance": 10.4,
     "looseChance": 89.6,
@@ -1561,6 +1626,7 @@
   },
   "ironman": {
     "websiteName": "IRONMAN",
+    "url": "https://key-drop.com/skins/category/ironman",
     "price": "15.02pln",
     "winChance": 36.679,
     "looseChance": 63.321,
@@ -1585,6 +1651,7 @@
   },
   "captain-america": {
     "websiteName": "CAPTAIN AMERICA",
+    "url": "https://key-drop.com/skins/category/captain-america",
     "price": "34.82pln",
     "winChance": 30.915,
     "looseChance": 69.085,
@@ -1609,6 +1676,7 @@
   },
   "thor": {
     "websiteName": "THOR",
+    "url": "https://key-drop.com/skins/category/thor",
     "price": "9.47pln",
     "winChance": 28.637,
     "looseChance": 71.363,
@@ -1633,6 +1701,7 @@
   },
   "hulk": {
     "websiteName": "HULK",
+    "url": "https://key-drop.com/skins/category/hulk",
     "price": "24.13pln",
     "winChance": 41.863,
     "looseChance": 58.137,
@@ -1657,6 +1726,7 @@
   },
   "vest": {
     "websiteName": "VEST",
+    "url": "https://key-drop.com/skins/category/vest",
     "price": "900.38pln",
     "winChance": 29.061,
     "looseChance": 70.939,
@@ -1681,6 +1751,7 @@
   },
   "serpent": {
     "websiteName": "SERPENT",
+    "url": "https://key-drop.com/skins/category/serpent",
     "price": "274.57pln",
     "winChance": 30.712,
     "looseChance": 69.288,
@@ -1705,6 +1776,7 @@
   },
   "arrow": {
     "websiteName": "ARROW",
+    "url": "https://key-drop.com/skins/category/arrow",
     "price": "592.66pln",
     "winChance": 22.297,
     "looseChance": 77.703,
@@ -1729,6 +1801,7 @@
   },
   "lore": {
     "websiteName": "LORE",
+    "url": "https://key-drop.com/skins/category/lore",
     "price": "1977.59pln",
     "winChance": 35.868,
     "looseChance": 64.132,
@@ -1753,6 +1826,7 @@
   },
   "vice": {
     "websiteName": "VICE",
+    "url": "https://key-drop.com/skins/category/vice",
     "price": "1185.5pln",
     "winChance": 10.632,
     "looseChance": 89.368,
@@ -1777,6 +1851,7 @@
   },
   "bloodshot": {
     "websiteName": "BLOODSHOT",
+    "url": "https://key-drop.com/skins/category/bloodshot",
     "price": "1582.11pln",
     "winChance": 35.065,
     "looseChance": 64.935,
@@ -1801,6 +1876,7 @@
   },
   "terrorist": {
     "websiteName": "TERRORIST",
+    "url": "https://key-drop.com/skins/category/terrorist",
     "price": "11.09pln",
     "winChance": 27.76,
     "looseChance": 72.24,
@@ -1825,6 +1901,7 @@
   },
   "nice-shot": {
     "websiteName": "NICE SHOT",
+    "url": "https://key-drop.com/skins/category/nice-shot",
     "price": "37.57pln",
     "winChance": 35.668,
     "looseChance": 64.332,
@@ -1849,6 +1926,7 @@
   },
   "viper": {
     "websiteName": "VIPER",
+    "url": "https://key-drop.com/skins/category/viper",
     "price": "19.75pln",
     "winChance": 23.681,
     "looseChance": 76.319,
@@ -1873,6 +1951,7 @@
   },
   "master": {
     "websiteName": "MASTER",
+    "url": "https://key-drop.com/skins/category/master",
     "price": "15.83pln",
     "winChance": 26.31,
     "looseChance": 73.69,
@@ -1897,6 +1976,7 @@
   },
   "marker": {
     "websiteName": "MARKER",
+    "url": "https://key-drop.com/skins/category/marker",
     "price": "4.74pln",
     "winChance": 37.657,
     "looseChance": 62.343,
@@ -1921,6 +2001,7 @@
   },
   "crimson-emerald": {
     "websiteName": "CRIMSON EMERALD",
+    "url": "https://key-drop.com/skins/category/crimson-emerald",
     "price": "49.43pln",
     "winChance": 30.91,
     "looseChance": 69.09,
@@ -1945,6 +2026,7 @@
   },
   "the-expendables": {
     "websiteName": "THE EXPENDABLES",
+    "url": "https://key-drop.com/skins/category/the-expendables",
     "price": "63.86pln",
     "winChance": 26.181,
     "looseChance": 73.819,
@@ -1969,6 +2051,7 @@
   },
   "dragon": {
     "websiteName": "DRAGON",
+    "url": "https://key-drop.com/skins/category/dragon",
     "price": "19.44pln",
     "winChance": 20.857,
     "looseChance": 79.143,
@@ -1993,6 +2076,7 @@
   },
   "pika-pika": {
     "websiteName": "PIKA PIKA",
+    "url": "https://key-drop.com/skins/category/pika-pika",
     "price": "18.27pln",
     "winChance": 13.03,
     "looseChance": 86.97,
@@ -2017,6 +2101,7 @@
   },
   "avalanche": {
     "websiteName": "AVALANCHE",
+    "url": "https://key-drop.com/skins/category/avalanche",
     "price": "3.7pln",
     "winChance": 22.068,
     "looseChance": 77.932,
@@ -2041,6 +2126,7 @@
   },
   "spider": {
     "websiteName": "SPIDER",
+    "url": "https://key-drop.com/skins/category/spider",
     "price": "31.66pln",
     "winChance": 21.664,
     "looseChance": 78.336,
@@ -2065,6 +2151,7 @@
   },
   "teeth": {
     "websiteName": "TEETH",
+    "url": "https://key-drop.com/skins/category/teeth",
     "price": "2.8pln",
     "winChance": 18.238,
     "looseChance": 81.762,
@@ -2089,6 +2176,7 @@
   },
   "mafia": {
     "websiteName": "MAFIA",
+    "url": "https://key-drop.com/skins/category/mafia",
     "price": "15.02pln",
     "winChance": 20.69,
     "looseChance": 79.31,
@@ -2113,6 +2201,7 @@
   },
   "gradient": {
     "websiteName": "GRADIENT",
+    "url": "https://key-drop.com/skins/category/gradient",
     "price": "15.51pln",
     "winChance": 31.191,
     "looseChance": 68.809,
@@ -2137,6 +2226,7 @@
   },
   "beast": {
     "websiteName": "BEAST",
+    "url": "https://key-drop.com/skins/category/beast",
     "price": "2.57pln",
     "winChance": 25.712,
     "looseChance": 74.288,
@@ -2161,6 +2251,7 @@
   },
   "bumblebee": {
     "websiteName": "BUMBLEBEE",
+    "url": "https://key-drop.com/skins/category/bumblebee",
     "price": "111.94pln",
     "winChance": 20.08,
     "looseChance": 79.92,
@@ -2185,6 +2276,7 @@
   },
   "lazure": {
     "websiteName": "LAZURE",
+    "url": "https://key-drop.com/skins/category/lazure",
     "price": "7.53pln",
     "winChance": 32.616,
     "looseChance": 67.384,
@@ -2209,6 +2301,7 @@
   },
   "joker": {
     "websiteName": "JOKER",
+    "url": "https://key-drop.com/skins/category/joker",
     "price": "197.76pln",
     "winChance": 27.507,
     "looseChance": 72.493,
@@ -2233,6 +2326,7 @@
   },
   "bullet": {
     "websiteName": "BULLET",
+    "url": "https://key-drop.com/skins/category/bullet",
     "price": "5.64pln",
     "winChance": 36.063,
     "looseChance": 63.937,
@@ -2257,6 +2351,7 @@
   },
   "banana": {
     "websiteName": "BANANA",
+    "url": "https://key-drop.com/skins/category/banana",
     "price": "5.37pln",
     "winChance": 21.047,
     "looseChance": 78.953,
@@ -2281,6 +2376,7 @@
   },
   "razor": {
     "websiteName": "RAZOR",
+    "url": "https://key-drop.com/skins/category/razor",
     "price": "43.52pln",
     "winChance": 27.062,
     "looseChance": 72.938,
@@ -2305,6 +2401,7 @@
   },
   "ak-47": {
     "websiteName": "AK-47",
+    "url": "https://key-drop.com/skins/category/ak-47",
     "price": "19.75pln",
     "winChance": 15.684,
     "looseChance": 84.316,
@@ -2329,6 +2426,7 @@
   },
   "awp": {
     "websiteName": "AWP",
+    "url": "https://key-drop.com/skins/category/awp",
     "price": "17.41pln",
     "winChance": 12.637,
     "looseChance": 87.363,
@@ -2353,6 +2451,7 @@
   },
   "knives": {
     "websiteName": "KNIVES",
+    "url": "https://key-drop.com/skins/category/knives",
     "price": "375.73pln",
     "winChance": 3.313,
     "looseChance": 96.687,
@@ -2377,6 +2476,7 @@
   },
   "gloves": {
     "websiteName": "GLOVES",
+    "url": "https://key-drop.com/skins/category/gloves",
     "price": "636.81pln",
     "winChance": 25.156,
     "looseChance": 74.844,
@@ -2401,6 +2501,7 @@
   },
   "agent": {
     "websiteName": "AGENT",
+    "url": "https://key-drop.com/skins/category/agent",
     "price": "5.32pln",
     "winChance": 13.124,
     "looseChance": 86.876,
@@ -2425,6 +2526,7 @@
   },
   "glock-18": {
     "websiteName": "GLOCK-18",
+    "url": "https://key-drop.com/skins/category/glock-18",
     "price": "5.55pln",
     "winChance": 16.012,
     "looseChance": 83.988,
@@ -2449,6 +2551,7 @@
   },
   "m4": {
     "websiteName": "M4",
+    "url": "https://key-drop.com/skins/category/m4",
     "price": "19.12pln",
     "winChance": 35.422,
     "looseChance": 64.578,
@@ -2473,6 +2576,7 @@
   },
   "usp-s": {
     "websiteName": "USP-S",
+    "url": "https://key-drop.com/skins/category/usp-s",
     "price": "5.95pln",
     "winChance": 21.776,
     "looseChance": 78.224,
@@ -2497,6 +2601,7 @@
   },
   "new-knives": {
     "websiteName": "NEW KNIVES",
+    "url": "https://key-drop.com/skins/category/new-knives",
     "price": "474.63pln",
     "winChance": 14.471,
     "looseChance": 85.529,
@@ -2521,6 +2626,7 @@
   },
   "milspec": {
     "websiteName": "MILSPEC",
+    "url": "https://key-drop.com/skins/category/milspec",
     "price": "1.17pln",
     "winChance": 23.321,
     "looseChance": 76.679,
@@ -2545,6 +2651,7 @@
   },
   "restricted": {
     "websiteName": "RESTRICTED",
+    "url": "https://key-drop.com/skins/category/restricted",
     "price": "7.53pln",
     "winChance": 18.931,
     "looseChance": 81.069,
@@ -2569,6 +2676,7 @@
   },
   "covert": {
     "websiteName": "COVERT",
+    "url": "https://key-drop.com/skins/category/covert",
     "price": "27.29pln",
     "winChance": 31.713,
     "looseChance": 68.287,
@@ -2668,6 +2776,7 @@
   },
   "snugtoes": {
     "websiteName": "SNUGTOES",
+    "url": "https://key-drop.com/skins/category/snugtoes",
     "price": "135.3pln",
     "winChance": 5.046,
     "looseChance": 94.954,
@@ -2692,6 +2801,7 @@
   },
   "black": {
     "websiteName": "BLACK",
+    "url": "https://key-drop.com/skins/category/black",
     "price": "31.66pln",
     "winChance": 30.716,
     "looseChance": 69.284,
@@ -2716,6 +2826,7 @@
   },
   "poker": {
     "websiteName": "POKER",
+    "url": "https://key-drop.com/skins/category/poker",
     "price": "39.55pln",
     "winChance": 36.751,
     "looseChance": 63.249,
@@ -2740,6 +2851,7 @@
   },
   "anon": {
     "websiteName": "ANON",
+    "url": "https://key-drop.com/skins/category/anon",
     "price": "31.66pln",
     "winChance": 34.492,
     "looseChance": 65.508,
@@ -2759,6 +2871,606 @@
       "0.60 - 0.79": "19.102%",
       "0.40 - 0.59": "18.209%",
       "0.20 - 0.39": "16.186%",
+      "<0.20": "0%"
+    }
+  },
+  "elpibecs1": {
+    "websiteName": "ELPIBECS1",
+    "url": "https://key-drop.com/skins/category/elpibecs1",
+    "price": "31.66pln",
+    "winChance": 33.931,
+    "looseChance": 66.069,
+    "profitChances": {
+      "<1.25": "7.593%",
+      "1.25 - 1.49": "12.367%",
+      "1.5 - 1.74": "6.067%",
+      "1.75 - 1.99": "3.033%",
+      "2 - 2.24": "0.3%",
+      "2.25 - 2.4": "2.379%",
+      "2.5 - 2.75": "1.682%",
+      "2.75 - 2.99": "0%",
+      ">3": "0.51%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "14.025%",
+      "0.60 - 0.79": "17.043%",
+      "0.40 - 0.59": "18.089%",
+      "0.20 - 0.39": "16.912%",
+      "<0.20": "0%"
+    }
+  },
+  "bytarifa": {
+    "websiteName": "BYTARIFA",
+    "url": "https://key-drop.com/skins/category/bytarifa",
+    "price": "35.58pln",
+    "winChance": 35.014,
+    "looseChance": 64.986,
+    "profitChances": {
+      "<1.25": "15.011%",
+      "1.25 - 1.49": "6.818%",
+      "1.5 - 1.74": "8.893%",
+      "1.75 - 1.99": "1.158%",
+      "2 - 2.24": "0%",
+      "2.25 - 2.4": "0.9%",
+      "2.5 - 2.75": "0%",
+      "2.75 - 2.99": "1.111%",
+      ">3": "1.123%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "0.944%",
+      "0.60 - 0.79": "7.668%",
+      "0.40 - 0.59": "42.988%",
+      "0.20 - 0.39": "13.386%",
+      "<0.20": "0%"
+    }
+  },
+  "sajucsgo": {
+    "websiteName": "SAJUCSGO",
+    "url": "https://key-drop.com/skins/category/sajucsgo",
+    "price": "35.04pln",
+    "winChance": 36.38,
+    "looseChance": 63.62,
+    "profitChances": {
+      "<1.25": "0.328%",
+      "1.25 - 1.49": "7.979%",
+      "1.5 - 1.74": "2.548%",
+      "1.75 - 1.99": "12.434%",
+      "2 - 2.24": "2.168%",
+      "2.25 - 2.4": "5.406%",
+      "2.5 - 2.75": "0%",
+      "2.75 - 2.99": "3.714%",
+      ">3": "1.803%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "0.659%",
+      "0.60 - 0.79": "1.541%",
+      "0.40 - 0.59": "2.328%",
+      "0.20 - 0.39": "51.581%",
+      "<0.20": "7.511%"
+    }
+  },
+  "mopo": {
+    "websiteName": "MOPO",
+    "url": "https://key-drop.com/skins/category/mopo",
+    "price": "54.12pln",
+    "winChance": 31.308,
+    "looseChance": 68.692,
+    "profitChances": {
+      "<1.25": "1.717%",
+      "1.25 - 1.49": "0.248%",
+      "1.5 - 1.74": "1.856%",
+      "1.75 - 1.99": "10.059%",
+      "2 - 2.24": "9.228%",
+      "2.25 - 2.4": "3.589%",
+      "2.5 - 2.75": "0%",
+      "2.75 - 2.99": "2.182%",
+      ">3": "2.429%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "0.681%",
+      "0.60 - 0.79": "2.808%",
+      "0.40 - 0.59": "12.074%",
+      "0.20 - 0.39": "29.573%",
+      "<0.20": "23.556%"
+    }
+  },
+  "csr": {
+    "websiteName": "CSR",
+    "url": "https://key-drop.com/skins/category/csr",
+    "price": "19.75pln",
+    "winChance": 21.579,
+    "looseChance": 78.421,
+    "profitChances": {
+      "<1.25": "0%",
+      "1.25 - 1.49": "0%",
+      "1.5 - 1.74": "0%",
+      "1.75 - 1.99": "3.538%",
+      "2 - 2.24": "4.149%",
+      "2.25 - 2.4": "4.482%",
+      "2.5 - 2.75": "3.048%",
+      "2.75 - 2.99": "0%",
+      ">3": "6.362%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "0.295%",
+      "0.60 - 0.79": "0.367%",
+      "0.40 - 0.59": "0%",
+      "0.20 - 0.39": "13.963%",
+      "<0.20": "63.796%"
+    }
+  },
+  "jamiedrakehd": {
+    "websiteName": "JAMIEDRAKEHD",
+    "url": "https://key-drop.com/skins/category/jamiedrakehd",
+    "price": "31.66pln",
+    "winChance": 33.526,
+    "looseChance": 66.474,
+    "profitChances": {
+      "<1.25": "6.761%",
+      "1.25 - 1.49": "12.944%",
+      "1.5 - 1.74": "6.086%",
+      "1.75 - 1.99": "2.794%",
+      "2 - 2.24": "0.206%",
+      "2.25 - 2.4": "2.491%",
+      "2.5 - 2.75": "1.734%",
+      "2.75 - 2.99": "0%",
+      ">3": "0.51%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "13.994%",
+      "0.60 - 0.79": "17.635%",
+      "0.40 - 0.59": "18.912%",
+      "0.20 - 0.39": "15.933%",
+      "<0.20": "0%"
+    }
+  },
+  "tiagovski": {
+    "websiteName": "TIAGOVSKI",
+    "url": "https://key-drop.com/skins/category/tiagovski",
+    "price": "39.55pln",
+    "winChance": 36.152,
+    "looseChance": 63.848,
+    "profitChances": {
+      "<1.25": "17.175%",
+      "1.25 - 1.49": "8.908%",
+      "1.5 - 1.74": "2.344%",
+      "1.75 - 1.99": "0.152%",
+      "2 - 2.24": "5.418%",
+      "2.25 - 2.4": "0%",
+      "2.5 - 2.75": "0.455%",
+      "2.75 - 2.99": "0%",
+      ">3": "1.7%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "9.57%",
+      "0.60 - 0.79": "22.953%",
+      "0.40 - 0.59": "25.457%",
+      "0.20 - 0.39": "5.868%",
+      "<0.20": "0%"
+    }
+  },
+  "lugin": {
+    "websiteName": "LUGIN",
+    "url": "https://key-drop.com/skins/category/lugin",
+    "price": "35.58pln",
+    "winChance": 35.31,
+    "looseChance": 64.69,
+    "profitChances": {
+      "<1.25": "14.632%",
+      "1.25 - 1.49": "8.92%",
+      "1.5 - 1.74": "7.785%",
+      "1.75 - 1.99": "1.388%",
+      "2 - 2.24": "0%",
+      "2.25 - 2.4": "0.351%",
+      "2.5 - 2.75": "0%",
+      "2.75 - 2.99": "1.111%",
+      ">3": "1.123%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "1.251%",
+      "0.60 - 0.79": "5.276%",
+      "0.40 - 0.59": "43.703%",
+      "0.20 - 0.39": "14.46%",
+      "<0.20": "0%"
+    }
+  },
+  "chentric": {
+    "websiteName": "CHENTRIC",
+    "url": "https://key-drop.com/skins/category/chentric",
+    "price": "39.55pln",
+    "winChance": 34.797,
+    "looseChance": 65.203,
+    "profitChances": {
+      "<1.25": "11.916%",
+      "1.25 - 1.49": "12.157%",
+      "1.5 - 1.74": "5.139%",
+      "1.75 - 1.99": "0%",
+      "2 - 2.24": "0.694%",
+      "2.25 - 2.4": "1.966%",
+      "2.5 - 2.75": "1.998%",
+      "2.75 - 2.99": "0.597%",
+      ">3": "0.33%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "9.321%",
+      "0.60 - 0.79": "22.328%",
+      "0.40 - 0.59": "28.177%",
+      "0.20 - 0.39": "5.377%",
+      "<0.20": "0%"
+    }
+  },
+  "zolik22": {
+    "websiteName": "ZOLIK22",
+    "url": "https://key-drop.com/skins/category/zolik22",
+    "price": "31.66pln",
+    "winChance": 29.182,
+    "looseChance": 70.818,
+    "profitChances": {
+      "<1.25": "8.107%",
+      "1.25 - 1.49": "6.16%",
+      "1.5 - 1.74": "9.651%",
+      "1.75 - 1.99": "2.62%",
+      "2 - 2.24": "0.424%",
+      "2.25 - 2.4": "0%",
+      "2.5 - 2.75": "0.254%",
+      "2.75 - 2.99": "0%",
+      ">3": "1.966%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "13.302%",
+      "0.60 - 0.79": "13.664%",
+      "0.40 - 0.59": "29.623%",
+      "0.20 - 0.39": "14.229%",
+      "<0.20": "0%"
+    }
+  },
+  "tynka": {
+    "websiteName": "TYNKA",
+    "url": "https://key-drop.com/skins/category/tynka",
+    "price": "25.71pln",
+    "winChance": 23.304,
+    "looseChance": 76.696,
+    "profitChances": {
+      "<1.25": "3.732%",
+      "1.25 - 1.49": "0.409%",
+      "1.5 - 1.74": "10.621%",
+      "1.75 - 1.99": "4.383%",
+      "2 - 2.24": "0.388%",
+      "2.25 - 2.4": "1.21%",
+      "2.5 - 2.75": "0%",
+      "2.75 - 2.99": "0.624%",
+      ">3": "1.937%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "12.248%",
+      "0.60 - 0.79": "35.702%",
+      "0.40 - 0.59": "13.569%",
+      "0.20 - 0.39": "15.177%",
+      "<0.20": "0%"
+    }
+  },
+  "dadosch": {
+    "websiteName": "DADOSCH",
+    "url": "https://key-drop.com/skins/category/dadosch",
+    "price": "39.55pln",
+    "winChance": 34.786,
+    "looseChance": 65.214,
+    "profitChances": {
+      "<1.25": "11.514%",
+      "1.25 - 1.49": "11.462%",
+      "1.5 - 1.74": "5.293%",
+      "1.75 - 1.99": "0%",
+      "2 - 2.24": "1.433%",
+      "2.25 - 2.4": "2.507%",
+      "2.5 - 2.75": "1.65%",
+      "2.75 - 2.99": "0.597%",
+      ">3": "0.33%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "9.041%",
+      "0.60 - 0.79": "20.516%",
+      "0.40 - 0.59": "29.962%",
+      "0.20 - 0.39": "5.695%",
+      "<0.20": "0%"
+    }
+  },
+  "jorgo": {
+    "websiteName": "JORGO",
+    "url": "https://key-drop.com/skins/category/jorgo",
+    "price": "39.55pln",
+    "winChance": 35.411,
+    "looseChance": 64.589,
+    "profitChances": {
+      "<1.25": "15.395%",
+      "1.25 - 1.49": "7.557%",
+      "1.5 - 1.74": "4.087%",
+      "1.75 - 1.99": "1.751%",
+      "2 - 2.24": "5.269%",
+      "2.25 - 2.4": "0%",
+      "2.5 - 2.75": "0.766%",
+      "2.75 - 2.99": "0%",
+      ">3": "0.586%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "8.995%",
+      "0.60 - 0.79": "23.289%",
+      "0.40 - 0.59": "25.874%",
+      "0.20 - 0.39": "6.431%",
+      "<0.20": "0%"
+    }
+  },
+  "krowny": {
+    "websiteName": "KROWNY",
+    "url": "https://key-drop.com/skins/category/krowny",
+    "price": "31.66pln",
+    "winChance": 29.289,
+    "looseChance": 70.711,
+    "profitChances": {
+      "<1.25": "8.647%",
+      "1.25 - 1.49": "4.496%",
+      "1.5 - 1.74": "11.023%",
+      "1.75 - 1.99": "2.469%",
+      "2 - 2.24": "0.434%",
+      "2.25 - 2.4": "0%",
+      "2.5 - 2.75": "0.254%",
+      "2.75 - 2.99": "0%",
+      ">3": "1.966%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "12.605%",
+      "0.60 - 0.79": "14.456%",
+      "0.40 - 0.59": "29.306%",
+      "0.20 - 0.39": "14.344%",
+      "<0.20": "0%"
+    }
+  },
+  "pietrak": {
+    "websiteName": "PIETRAK",
+    "url": "https://key-drop.com/skins/category/pietrak",
+    "price": "25.71pln",
+    "winChance": 23.671,
+    "looseChance": 76.329,
+    "profitChances": {
+      "<1.25": "4.171%",
+      "1.25 - 1.49": "0.288%",
+      "1.5 - 1.74": "10.586%",
+      "1.75 - 1.99": "3.785%",
+      "2 - 2.24": "1.069%",
+      "2.25 - 2.4": "1.315%",
+      "2.5 - 2.75": "0%",
+      "2.75 - 2.99": "0.62%",
+      ">3": "1.837%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "9.941%",
+      "0.60 - 0.79": "36.948%",
+      "0.40 - 0.59": "14.056%",
+      "0.20 - 0.39": "15.384%",
+      "<0.20": "0%"
+    }
+  },
+  "jasonplay": {
+    "websiteName": "JASONPLAY",
+    "url": "https://key-drop.com/skins/category/jasonplay",
+    "price": "39.55pln",
+    "winChance": 36.885,
+    "looseChance": 63.115,
+    "profitChances": {
+      "<1.25": "18.177%",
+      "1.25 - 1.49": "8.327%",
+      "1.5 - 1.74": "2.21%",
+      "1.75 - 1.99": "0.404%",
+      "2 - 2.24": "5.612%",
+      "2.25 - 2.4": "0%",
+      "2.5 - 2.75": "0.455%",
+      "2.75 - 2.99": "0%",
+      ">3": "1.7%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "5.708%",
+      "0.60 - 0.79": "24.968%",
+      "0.40 - 0.59": "26.411%",
+      "0.20 - 0.39": "6.028%",
+      "<0.20": "0%"
+    }
+  },
+  "narancs": {
+    "websiteName": "NARANCS",
+    "url": "https://key-drop.com/skins/category/narancs",
+    "price": "35.58pln",
+    "winChance": 35.799,
+    "looseChance": 64.201,
+    "profitChances": {
+      "<1.25": "15.765%",
+      "1.25 - 1.49": "6.204%",
+      "1.5 - 1.74": "9.213%",
+      "1.75 - 1.99": "1.349%",
+      "2 - 2.24": "0%",
+      "2.25 - 2.4": "1.034%",
+      "2.5 - 2.75": "0%",
+      "2.75 - 2.99": "1.111%",
+      ">3": "1.123%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "0.477%",
+      "0.60 - 0.79": "7.953%",
+      "0.40 - 0.59": "41.671%",
+      "0.20 - 0.39": "14.1%",
+      "<0.20": "0%"
+    }
+  },
+  "shavo": {
+    "websiteName": "SHAVO",
+    "url": "https://key-drop.com/skins/category/shavo",
+    "price": "31.66pln",
+    "winChance": 30.815,
+    "looseChance": 69.185,
+    "profitChances": {
+      "<1.25": "10.512%",
+      "1.25 - 1.49": "4.467%",
+      "1.5 - 1.74": "9.761%",
+      "1.75 - 1.99": "3.311%",
+      "2 - 2.24": "0.544%",
+      "2.25 - 2.4": "0%",
+      "2.5 - 2.75": "0.254%",
+      "2.75 - 2.99": "0%",
+      ">3": "1.966%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "10.147%",
+      "0.60 - 0.79": "16.15%",
+      "0.40 - 0.59": "28.342%",
+      "0.20 - 0.39": "14.546%",
+      "<0.20": "0%"
+    }
+  },
+  "okta": {
+    "websiteName": "OKTA",
+    "url": "https://key-drop.com/skins/category/okta",
+    "price": "45.1pln",
+    "winChance": 27.389,
+    "looseChance": 72.611,
+    "profitChances": {
+      "<1.25": "1.352%",
+      "1.25 - 1.49": "0.563%",
+      "1.5 - 1.74": "4.076%",
+      "1.75 - 1.99": "3.248%",
+      "2 - 2.24": "4.543%",
+      "2.25 - 2.4": "3.615%",
+      "2.5 - 2.75": "4.553%",
+      "2.75 - 2.99": "2.199%",
+      ">3": "3.24%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "0.849%",
+      "0.60 - 0.79": "1.791%",
+      "0.40 - 0.59": "0.353%",
+      "0.20 - 0.39": "27.364%",
+      "<0.20": "42.254%"
+    }
+  },
+  "iraphahell": {
+    "websiteName": "IRAPHAHELL",
+    "url": "https://key-drop.com/skins/category/iraphahell",
+    "price": "39.55pln",
+    "winChance": 37.767,
+    "looseChance": 62.233,
+    "profitChances": {
+      "<1.25": "18.753%",
+      "1.25 - 1.49": "10.048%",
+      "1.5 - 1.74": "2.745%",
+      "1.75 - 1.99": "0.436%",
+      "2 - 2.24": "3.23%",
+      "2.25 - 2.4": "0%",
+      "2.5 - 2.75": "0.855%",
+      "2.75 - 2.99": "0%",
+      ">3": "1.7%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "8.032%",
+      "0.60 - 0.79": "24.063%",
+      "0.40 - 0.59": "24.214%",
+      "0.20 - 0.39": "5.924%",
+      "<0.20": "0%"
+    }
+  },
+  "generalu": {
+    "websiteName": "GENERALU",
+    "url": "https://key-drop.com/skins/category/generalu",
+    "price": "35.58pln",
+    "winChance": 33.596,
+    "looseChance": 66.404,
+    "profitChances": {
+      "<1.25": "16.2%",
+      "1.25 - 1.49": "5.83%",
+      "1.5 - 1.74": "7.634%",
+      "1.75 - 1.99": "1.105%",
+      "2 - 2.24": "0%",
+      "2.25 - 2.4": "0.659%",
+      "2.5 - 2.75": "0%",
+      "2.75 - 2.99": "1.111%",
+      ">3": "1.057%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "1.039%",
+      "0.60 - 0.79": "4.445%",
+      "0.40 - 0.59": "44.159%",
+      "0.20 - 0.39": "16.761%",
+      "<0.20": "0%"
+    }
+  },
+  "enerqia": {
+    "websiteName": "ENERQIA",
+    "url": "https://key-drop.com/skins/category/enerqia",
+    "price": "24.8pln",
+    "winChance": 34.087,
+    "looseChance": 65.913,
+    "profitChances": {
+      "<1.25": "3.685%",
+      "1.25 - 1.49": "16.075%",
+      "1.5 - 1.74": "0.83%",
+      "1.75 - 1.99": "6.84%",
+      "2 - 2.24": "1.729%",
+      "2.25 - 2.4": "1.513%",
+      "2.5 - 2.75": "0.208%",
+      "2.75 - 2.99": "0%",
+      ">3": "3.207%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "0.694%",
+      "0.60 - 0.79": "10.974%",
+      "0.40 - 0.59": "19.401%",
+      "0.20 - 0.39": "34.27%",
+      "<0.20": "0%"
+    }
+  },
+  "vural": {
+    "websiteName": "VURAL",
+    "url": "https://key-drop.com/skins/category/vural",
+    "price": "31.66pln",
+    "winChance": 31.199,
+    "looseChance": 68.801,
+    "profitChances": {
+      "<1.25": "10.416%",
+      "1.25 - 1.49": "4.894%",
+      "1.5 - 1.74": "10.622%",
+      "1.75 - 1.99": "2.565%",
+      "2 - 2.24": "0.482%",
+      "2.25 - 2.4": "0%",
+      "2.5 - 2.75": "0.254%",
+      "2.75 - 2.99": "0%",
+      ">3": "1.966%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "9.766%",
+      "0.60 - 0.79": "14.951%",
+      "0.40 - 0.59": "29.392%",
+      "0.20 - 0.39": "14.692%",
+      "<0.20": "0%"
+    }
+  },
+  "rennow": {
+    "websiteName": "RENNOW",
+    "url": "https://key-drop.com/skins/category/rennow",
+    "price": "25.71pln",
+    "winChance": 33.277,
+    "looseChance": 66.723,
+    "profitChances": {
+      "<1.25": "7.46%",
+      "1.25 - 1.49": "0.54%",
+      "1.5 - 1.74": "16.625%",
+      "1.75 - 1.99": "3.754%",
+      "2 - 2.24": "1.254%",
+      "2.25 - 2.4": "1.299%",
+      "2.5 - 2.75": "0%",
+      "2.75 - 2.99": "0.624%",
+      ">3": "1.721%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "2.389%",
+      "0.60 - 0.79": "23.571%",
+      "0.40 - 0.59": "18.262%",
+      "0.20 - 0.39": "22.501%",
       "<0.20": "0%"
     }
   }
