@@ -2774,6 +2774,31 @@
       "<0.20": "66%"
     }
   },
+  "hornakcz": {
+    "websiteName": "HORNAKCZ",
+    "url": "https://key-drop.com/skins/category/hornakcz",
+    "price": 31.5,
+    "winChance": 22.148,
+    "looseChance": 77.852,
+    "profitChances": {
+      "<1.25": "8.094%",
+      "1.25 - 1.49": "1.645%",
+      "1.5 - 1.74": "4.083%",
+      "1.75 - 1.99": "2.703%",
+      "2 - 2.24": "0.827%",
+      "2.25 - 2.4": "0.518%",
+      "2.5 - 2.75": "0.517%",
+      "2.75 - 2.99": "0.695%",
+      ">3": "3.066%"
+    },
+    "looseChances": {
+      "0.80 - 0.99": "5.524%",
+      "0.60 - 0.79": "32.038%",
+      "0.40 - 0.59": "19.21%",
+      "0.20 - 0.39": "21.08%",
+      "<0.20": "0%"
+    }
+  },
   "elpibecs1": {
     "websiteName": "ELPIBECS1",
     "url": "https://key-drop.com/skins/category/elpibecs1",
